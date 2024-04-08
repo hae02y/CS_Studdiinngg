@@ -1,3 +1,5 @@
+package singleton;
+
 public class EagerInitializedSingleton {
     private static final EagerInitializedSingleton INSTANCE = new EagerInitializedSingleton();
 

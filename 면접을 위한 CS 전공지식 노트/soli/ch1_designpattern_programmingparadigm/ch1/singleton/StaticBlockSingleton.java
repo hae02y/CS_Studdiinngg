@@ -1,3 +1,5 @@
+package singleton;
+
 public class StaticBlockSingleton {
 
     private static StaticBlockSingleton INSTANCE;

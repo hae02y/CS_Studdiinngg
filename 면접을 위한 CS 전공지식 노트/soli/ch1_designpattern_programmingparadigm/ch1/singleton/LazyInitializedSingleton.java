@@ -1,3 +1,5 @@
+package singleton;
+
 public class LazyInitializedSingleton {
 
     private static LazyInitializedSingleton INSTANCE;

@@ -1,3 +1,5 @@
+package singleton;
+
 public class ThreadSafeSingleton {
 
     private static ThreadSafeSingleton INSTANCE;
