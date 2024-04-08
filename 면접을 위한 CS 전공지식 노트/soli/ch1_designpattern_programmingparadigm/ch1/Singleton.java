@@ -14,9 +14,10 @@ public class Singleton {
             System.out.println(a.hashCode());
             System.out.println(b.hashCode());
 
-            if(a==b) {
+            if (a == b) {
                 System.out.println(true);
             }
         }
     }
 }
+
