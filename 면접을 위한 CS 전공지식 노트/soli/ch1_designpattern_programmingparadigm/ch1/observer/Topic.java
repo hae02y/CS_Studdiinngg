@@ -35,9 +35,7 @@ public class Topic implements Subject {
 
     public void postMessage(String msg) {
         System.out.println("Message sended to Topic : " + msg);
-
         this.message = msg;
-
         notifyObserver();
 
     }

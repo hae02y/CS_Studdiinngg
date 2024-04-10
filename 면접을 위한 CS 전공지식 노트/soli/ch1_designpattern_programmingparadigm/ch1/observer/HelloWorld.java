@@ -14,8 +14,12 @@ public class HelloWorld {
         topic.register(b);
         topic.register(c);
 
-        topic.postMessage("amumu is op champion ."); // ㅋㅋㅋ
-
-
+        topic.postMessage("amumu is op champion .");
+        /*
+        Message sended to Topic : amumu is op champion .
+        a:: got message >> amumu is op champion .
+        b:: got message >> amumu is op champion .
+        c:: got message >> amumu is op champion .
+         */
     }
 }
