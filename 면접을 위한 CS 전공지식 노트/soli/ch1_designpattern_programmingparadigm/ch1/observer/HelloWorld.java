@@ -14,6 +14,8 @@ public class HelloWorld {
         topic.register(b);
         topic.register(c);
 
+        topic.unregister(b);
+
         topic.postMessage("amumu is op champion .");
         /*
         Message sended to Topic : amumu is op champion .
