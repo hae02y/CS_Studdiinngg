@@ -10,6 +10,6 @@
 6. [이터레이터 패턴](https://congruous-parcel-450.notion.site/Iterator-Pattern-b31e43d32be4404b8d08137a3376a1d1?pvs=4) <br/>
 7. [노출모듈 패턴](https://congruous-parcel-450.notion.site/Reveling-module-pattern-cb100884890444038b141717842c7404?pvs=4) <br/>
 8. [MVC 패턴](https://congruous-parcel-450.notion.site/MVC-ff574ebfac934f9ba16915e235912c4a?pvs=4) <br/>
-9. [MVP 패턴]() <br/>
-10. [MVM 패턴]() <br/>
+9. [MVP 패턴](https://congruous-parcel-450.notion.site/MVP-484acf203d484e91a218c84e7634abba?pvs=4) <br/>
+10. [MVVM 패턴](https://congruous-parcel-450.notion.site/MVVM-d885fa52aa3d40b2b4c513f52ecc9a31?pvs=4) <br/>
 
